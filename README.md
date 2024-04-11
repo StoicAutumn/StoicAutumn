@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm currently a student at Tech Elevator graduating in April 2024. There I am learning full stack development while learning TypeScript and React in my spare time.
+
+Upon request I'm happy to show you some projects I've worked on:
+- Property Key Management System
+- Food Journal (Calorie Tracker) Application
+- Peer-To-Peer Payment Application
